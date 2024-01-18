@@ -1,9 +1,9 @@
 # CRUD_REST_API
 
-Overview
+Overview:
 This repository contains a simple CRUD (Create, Read, Update, Delete) REST API built with Express.js, a popular Node.js web application framework. The API provides endpoints for performing basic operations on a collections.
 
-Features
+Features:
 Create (POST):
 Description: Add a new record to the collection.
 Request: Send a POST request with JSON data representing the new record.
